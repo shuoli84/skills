@@ -1,0 +1,4 @@
+interface:
+  display_name: "macOS 拼音卡顿修复"
+  short_description: "复现系统拼音英文输入截断，定位学习数据异常并实施可回滚修复"
+  default_prompt: "使用 $macos-pinyin-repair 复现 macOS 系统拼音输入英文时的截断或卡顿，并根据验证结果修复。"
